@@ -1,0 +1,2 @@
+# iPhotosBackup
+把iPhotos的照片按照月份备份到指定的路径
